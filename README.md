@@ -1,5 +1,8 @@
 # YIP5-Yeast
 Is a protein that interacts with Rab GTPases; the analysis large-scale protein-protein interaction data implies a possible role in vesicle-mediated transport. It is described as a Ypt-interacting protein.
+Phenotype: Classical Genetics
+  Viable
+
 
 Genomic DNA: >YIP5 YGL161C SGDID:S000003129, chrVII:199210..200142
 ATGCCGTCCAATAATAGCAGTTTTTTAGATATTGACGATGATCTCGAGGGTGTAGATGAT
@@ -27,6 +30,17 @@ APLQGQMDPPAYDQVIGQNDNDGLGRNGLRPGLINYYSKYFQIDLTQFKKRLSAVLTFRN
 DHNSESNEDNTDLYGAVWITATVVMINFTMSRGLNFIISDVIEGVKTGEDIDRASQFKKL
 LHSIWLFYGYTFGVPFITMQVLNRDEHSERNRSFKSVPELISVYGYANLIWIPVCVILNI
 LDMSKRLRTVQAIQWAIVALGWAQSSYFLNSQISSNNNTETQSNGKFSLSIIVVVALHTL
-FCLLFRFIIF*
+FCLLFRFIIF
 
 When matched with human RefSeqGene sequences, no significant similarities were found.
+YIP5 protein seems to appear only in yeast
+  However, some similarities occurred when lined up with neurospora tetrasperma hypothetical protein.
+Gene Ontology
+  Molecular Function:
+    Manually Curated: Rab GTPase binding
+  Cellular Component:
+    Golgi Apparatus
+Neighbors of YIP5: 
+  SUT1: Zn(II)2Cys6 family transcription factor
+  AIM4: NADPH Oxidase localized to the perinuclear ER
+  
